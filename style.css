@@ -1,0 +1,44 @@
+h1{
+    color:darkturquoise
+}
+*{
+    border:solid
+}
+.Header{
+    border: crimson;
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap-reverse;
+    font-family: cursive;
+    background-color: gold;
+}
+
+.Projects{
+    color: maroon;
+    display:flex;
+    justify-content:space-evenly;
+    font-style: italic;
+}
+
+.About{
+    background-color:#808080;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Whitehat{
+    font-family: fantasy;
+    color: #7eff42;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+    font-size: xx-small;
+    font-color:#56ac94;
+    margin:20px;
+    padding-left:1500px;
+}
+
+.Images{
+    display:flex;
+    justify-content:space-evenly;
+    color: #371a6d;
+}
